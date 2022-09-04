@@ -1,5 +1,5 @@
 (function($){
-  // Search
+  // Search  1+1=2
   var $searchWrap = $('#search-form-wrap'),
     isSearchAnim = false,
     searchAnimDuration = 200;
